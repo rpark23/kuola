@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kuola/static/css/main.b23c7567.chunk.css",
+    "main.js": "/kuola/static/js/main.59a9add7.chunk.js",
+    "main.js.map": "/kuola/static/js/main.59a9add7.chunk.js.map",
+    "runtime-main.js": "/kuola/static/js/runtime-main.7a8e638c.js",
+    "runtime-main.js.map": "/kuola/static/js/runtime-main.7a8e638c.js.map",
+    "static/js/2.7d077985.chunk.js": "/kuola/static/js/2.7d077985.chunk.js",
+    "static/js/2.7d077985.chunk.js.map": "/kuola/static/js/2.7d077985.chunk.js.map",
+    "static/js/3.36b3ef4d.chunk.js": "/kuola/static/js/3.36b3ef4d.chunk.js",
+    "static/js/3.36b3ef4d.chunk.js.map": "/kuola/static/js/3.36b3ef4d.chunk.js.map",
+    "index.html": "/kuola/index.html",
+    "static/css/main.b23c7567.chunk.css.map": "/kuola/static/css/main.b23c7567.chunk.css.map",
+    "static/js/2.7d077985.chunk.js.LICENSE.txt": "/kuola/static/js/2.7d077985.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a8e638c.js",
+    "static/js/2.7d077985.chunk.js",
+    "static/css/main.b23c7567.chunk.css",
+    "static/js/main.59a9add7.chunk.js"
+  ]
+}
